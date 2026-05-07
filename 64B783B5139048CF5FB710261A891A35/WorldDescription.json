@@ -1,0 +1,35 @@
+{
+	"Version": 1,
+	"WorldDescription":
+	{
+		"islandId": "64B783B5139048CF5FB710261A891A35",
+		"WorldName": "",
+		"CreationTime": 6.3912613914770995e+17,
+		"WorldPresetType": "Medium",
+		"WorldSettings":
+		{
+			"BoolParameters":
+			{
+				"{\"TagName\": \"WDS.Parameter.Coop.SharedQuests\"}": true,
+				"{\"TagName\": \"WDS.Parameter.EasyExplore\"}": false
+			},
+			"FloatParameters":
+			{
+				"{\"TagName\": \"WDS.Parameter.MobHealthMultiplier\"}": 1,
+				"{\"TagName\": \"WDS.Parameter.MobDamageMultiplier\"}": 1,
+				"{\"TagName\": \"WDS.Parameter.ShipsHealthMultiplier\"}": 1,
+				"{\"TagName\": \"WDS.Parameter.ShipsDamageMultiplier\"}": 1,
+				"{\"TagName\": \"WDS.Parameter.BoardingDifficultyMultiplier\"}": 1,
+				"{\"TagName\": \"WDS.Parameter.Coop.StatsCorrectionModifier\"}": 1,
+				"{\"TagName\": \"WDS.Parameter.Coop.ShipStatsCorrectionModifier\"}": 0
+			},
+			"TagParameters":
+			{
+				"{\"TagName\": \"WDS.Parameter.CombatDifficulty\"}":
+				{
+					"TagName": "WDS.Parameter.CombatDifficulty.Normal"
+				}
+			}
+		}
+	}
+}
